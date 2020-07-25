@@ -1,1 +1,1 @@
-This is my tempoary web design portfolio built with HTML and CSS. 
+My temporary web design portfolio site built with HTML and CSS. 
